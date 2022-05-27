@@ -61,7 +61,7 @@ kramdown:
 # Build settings
 theme_base: "light" 
 theme_switch: on
-theme: jekyll-theme-potato-hacker
+# theme: jekyll-theme-potato-hacker
 # plugins:
 #   - jekyll-feed
 
