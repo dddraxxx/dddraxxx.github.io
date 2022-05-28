@@ -10,7 +10,7 @@ avatar: true
 
 ## About me
 
-My name is **Dong Qihua** and I have an English name **Drax**. My current interest lies in Artificial Intelligence, especially in unsupervised learning and generalization (multi-modal). I am also excited about its application in real life, like medical diagnosis or reinforcement learning. 
+My name is **Dong Qihua** and I have an English name **Drax**. My current interest lies in Artificial Intelligence, especially in unsupervised learning and generalization (multi-modal). I am also excited about its application in real life, like in medical diagnosis or reinforcement learning. 
 
 "There will be no AI winter," stated the great Geoffery Hinton, and I can see it in the hundreds of papers published every day, in the complexity and black-box nature of a neural network, in the exploding growth of internet data, and the untapped potential of AI-specific computing accelerators. I want to be a part of it and make meaningful contributions to the field and, if there is one, the "ultimate answer" of general intelligence. Though chances are that I may not be bestowed with the gift of unraveling the myth, I believe through persistent effort and proper guidance, I will enjoy the journey and transfer AI's advances to benefits of society. That's why I'm pursuing a Ph.D., and I hope that years from now, I'll be grateful I did.
 
