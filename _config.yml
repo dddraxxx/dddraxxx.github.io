@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My home page
+title: DONG Qihua's homepage
 description: >- # this means to ignore newlines until "baseurl:"
   Personal homepage of DONG Qihua (Drax)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /assets/img/icons/favicon.ico
+favicon: /assets/img/icons/ic2.ico
 
 # twitter_username: jekyllrb
 email: dongqh078@gmail.com
