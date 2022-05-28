@@ -32,30 +32,32 @@
         </div> -->
         <div class="col-sm-8 col-sm-offset-2 content-div">
           <div class="page-separator hidden-xs">
-            <h1 class="h1-strip" style="padding-bottom:8em; margin-bottom: 0;"></h1>
+            <h1 class="h1-strip" style="padding-bottom:4em; margin-bottom: 0;"></h1>
           </div>
           <div class="page-separator visible-xs">
             <h1 class="h1-strip" style="padding-bottom:2em; margin-bottom: 0;"></h1>
           </div>
           <h1 class="post-title page-title" id="title"><a href="#title">{{ page.head }}</a></h1>
-          {{ content }}
+          <div class="ctx-text">
+            {{ content }}
+          </div>
         </div>
         <div class="col-sm-2">
-          <div class="pane-separator hidden-xs" style="margin-bottom:30em;"></div>
+          <div class="pane-separator hidden-xs" style="margin-bottom:15em;"></div>
           <div class="pane-separator visible-xs" style="margin-bottom:5em;"></div>
           <div class="right-pane" style="margin-left: 1em;">
             {% if site.avatar == true %}
             <div class="avatar">
               <center>
-                {% if page.header != null and page.header%}
-                  {% if site.avatar_image != null%}
-                  <img src="{{ site.avatar_image | prepend: '/' | prepend: site.baseurl }}" alt="me" class="avatar-image">
-                  {% endif %}
-                  {% if site.avatar_description != null %}
-                  <div class="avatar-box">
-                    <p class="avatar-description">{{site.avatar_description}}</p>
-                  </div>
-                  {% endif %}
+                {% if page.avatar != null and page.avatar%}
+                {% if site.avatar_image != null%}
+                <img src="{{ site.avatar_image | prepend: '/' | prepend: site.baseurl }}" alt="me" class="avatar-image">
+                {% endif %}
+                {% if site.avatar_description != null %}
+                <div class="avatar-box">
+                  <p class="avatar-description">{{site.avatar_description}}</p>
+                </div>
+                {% endif %}
                 {% endif %}
                 <div class="right-links">
                   {% include links.html %}
@@ -94,9 +96,11 @@
   </div>
 </body>
 
+{% if page.header!=null %}
 <section class="footer">
   <!-- {% include footer.html %} -->
   {% include foot.html %}
 </section>
+{% endif %}
 
 </html>

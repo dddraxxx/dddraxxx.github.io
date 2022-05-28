@@ -43,6 +43,13 @@ h6 {
   border-bottom-color: $brand-danger;
 }
 
+.ctx-text p {
+  line-height: 2;
+  text-align: justify;
+  font-weight: 500;
+  // font-family:sans-serif;
+}
+
 #background-div,
 #background-svg {
   width: 100%;
@@ -137,6 +144,7 @@ $avatar-size: 10em;
 
 .avatar-description {
   color: $gray-light;
+  text-align: center;
 }
 
 .avatar-box {
