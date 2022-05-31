@@ -43,11 +43,12 @@ h6 {
   border-bottom-color: $brand-danger;
 }
 
-.ctx-text p {
+.ctx-text p, .ctx-text li{
   line-height: 2;
   text-align: justify;
+  font-size: 1.3em;
   font-weight: 500;
-  // font-family:sans-serif;
+  font-family:serif;
 }
 
 #background-div,
