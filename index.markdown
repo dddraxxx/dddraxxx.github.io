@@ -11,10 +11,13 @@ avatar: true
 #### CV and contacts
 You can check my [curriculum vitae](assets/CV1.pdf). My email is <dongqh078@gmail.com>. Feel free to talk.
 
+#### Useful resources
+[Resources](./items/resources.html) that I find helpful during my study.
+
 ## About me
 
 My name is **Dong Qihua** and I have an English name **Drax**. I am now seeking a Ph.D. position. My interest lies in Artificial Intelligence, especially its generalization (I am also excited about AI applications in real life, like in medical diagnosis), including:
-1. multi-modal methods (the combination of knowledge builds more intelligent models!)
+1. multi-modal methods (the combination of knowledge builds more intelligent models! This might be a better way of unsupervised learning)
 2. reliability of the generalization (which is related to research on the difference between models and human perception, how to find the difference and how to identify arguments that models use).
 
 Currently, I am working as a Research Assistant at City University of Hong Kong under the supervision of [Liao Jing](https://liaojing.github.io/html/). For the past year, I have focused on several computer vision projects and built solid foundations in the field. I also learned how to propose my own research idea instead of just following the directions of the professors (like the recent project on how to initialize 3D models). Feeling curious and interested gradually became my motivation for research. To be honest, doing research is more effort-taking yet more exciting than I presumed.
