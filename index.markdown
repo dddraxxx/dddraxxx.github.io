@@ -11,9 +11,6 @@ avatar: true
 #### CV and contacts
 You can check my [curriculum vitae](assets/CV1.pdf). My email is <dongqh078@gmail.com>. Feel free to talk.
 
-#### Useful resources
-[Resources](./items/resources.html) that I find helpful during my study.
-
 ## About me
 
 My name is **Dong Qihua** and I have an English name **Drax**. I am now seeking a Ph.D. position. My interest lies in Artificial Intelligence, especially its generalization (I am also excited about AI applications in real life, like in medical diagnosis), including:
@@ -34,3 +31,10 @@ During my undergraduate years, I minored in Math, took some challenging courses 
 
 ### Hobbies
 My biggest hobby is playing basketball (used to watch every NBA game broadcast on TV and play for hours every day). It is relaxing and refreshing for me.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+### Useful resources
+[Resources](./items/resources.html) that I find helpful during my study.
