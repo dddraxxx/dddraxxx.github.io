@@ -14,7 +14,7 @@ You can check my [curriculum vitae](assets/CV1.pdf). My email is <dongqh078@gmai
 ## About me
 
 My name is **Dong Qihua** and I have an English name **Drax**. My research interest lies in Artificial Intelligence, especially its generalization, including:
-1. multi-modal methods (the combination of knowledge builds more intelligent models! This might be a better way of unsupervised learning)
+1. multi-modal and unsupervised methods (the combination of knowledge builds more intelligent models! This might be a better way of unsupervised learning)
 2. reliability of the generalization (which is related to research on the difference between models and human perception, how to find the difference and how to identify arguments that models use).
 
 Also, I am excited about AI applications in real life, like in medical diagnosis. I am now seeking a Ph.D. position. 
