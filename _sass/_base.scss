@@ -252,8 +252,25 @@ blockquote {
 
 .social {
   text-align: center;
+  .profile-contact-icons {
+    font-size: 2rem;
+    // # make text fill the row
+    display: flex;
+    justify-content: space-evenly;
+    a {
+      i::before {
+        color: var(--global-text-color);
+        transition-property: all 0.2s ease-in-out;
+      }
+      &:hover {
+        i::before {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+  }
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
     a {
       i::before {
         color: var(--global-text-color);
