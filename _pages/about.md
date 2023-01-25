@@ -20,4 +20,4 @@ social: true  # includes social icons at the bottom of the page
 
 My research interest lies in Artificial Intelligence, especially its generalization, including: multi-modal and unsupervised methods, reliability and generalization of AI algorithms. Also, I am excited about AI applications in real life, like in medical diagnosis and theorem proving. 
 
-I am now seeking a Ph.D. position.
+I am now seeking a Ph.D. position. Feel free to contact me if you are interested in my research.
