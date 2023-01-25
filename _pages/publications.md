@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: <b>* denotes cofirst author</b>
+description: <b>The authors with * contributed equally to the work</b>
 nav: false
 nav_order: 1
 years: [2022]

@@ -58,7 +58,12 @@ layout: default
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Publications</a></h2>
-            <p><b>* denotes cofirst authors</b></p>
+            {%- for page in site.pages -%}
+              {%- if page.title == 'Publications' -%}
+                {%- assign pub_descript = page.description -%}
+              {%- endif -%}
+            {%- endfor -%}
+            <b>{{ pub_descript }}</b>
             {%- include selected_papers.html %}
           {%- endif %}
 
