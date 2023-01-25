@@ -748,3 +748,18 @@ progress {
      display: block;
      height: inherit;
  }
+
+ .news{
+  table {
+    th {
+      white-space: nowrap;
+    }
+  }
+ }
+
+ .clearfix{
+  p{
+    font-size: 1.2rem;
+    text-align: justify;
+  }
+ }

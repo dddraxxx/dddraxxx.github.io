@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-08-29
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Be a research assistant under the supervision of [Xu, Yan](https://scholar.google.com.hk/citations?user=D01Xtx4AAAAJ&hl=en) and [Liao, Jing](https://liaojing.github.io/html/).

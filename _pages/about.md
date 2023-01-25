@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Graduated
-
 My research interest lies in Artificial Intelligence, especially its generalization, including: multi-modal and unsupervised methods, reliability and generalization of AI algorithms. Also, I am excited about AI applications in real life, like in medical diagnosis and theorem proving. 
 
 I am now seeking a Ph.D. position.
