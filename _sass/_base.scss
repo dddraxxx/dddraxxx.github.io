@@ -514,8 +514,11 @@ footer.sticky-bottom {
         width: 100%;
         min-width: 80px;
         max-width: 200px;
-        img{
+        .previewimg{
           aspect-ratio: 16/9;
+          width: 100%;
+        min-width: 80px;
+        max-width: 200px;
         }
       }
       .abbr {
