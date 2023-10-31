@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: selfie.png
+  image: selfie_lowres.png
   image_circular: False # crops the image to make it circular
   address: False
   social: ["github", "twitter", "scholar", "email"]
