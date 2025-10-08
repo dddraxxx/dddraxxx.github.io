@@ -5,5 +5,5 @@ title: CV
 nav: true
 nav_order: 4
 cv_pdf: cv.pdf
-redirect_url: assets/pdf/cv_1.pdf
+redirect_url: assets/pdf/cv.pdf
 ---
