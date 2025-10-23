@@ -5,7 +5,7 @@ title: Publications
 description: <b>The authors with * contributed equally to the work</b>
 nav: false
 nav_order: 1
-years: [2022]
+years: [2025, 2023, 2022]
 ---
 <div class="publications">
 {%- for y in page.years %}
