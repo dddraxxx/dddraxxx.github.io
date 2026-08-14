@@ -586,6 +586,7 @@ footer.sticky-bottom {
         line-height: 1.35;
         box-shadow: 0 3px 8px rgba(0, 0, 0, 0.28);
         background: #ffffff;
+        color: #111111 !important;
 
         &__logo {
           display: block;
@@ -603,6 +604,7 @@ footer.sticky-bottom {
         }
 
         span {
+          color: #111111 !important;
           padding-left: 0.55rem;
           border-left: 1px solid rgba(17, 17, 17, 0.22);
         }
