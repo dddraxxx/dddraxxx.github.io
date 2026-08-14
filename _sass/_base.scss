@@ -573,6 +573,52 @@ footer.sticky-bottom {
           }
         }
       }
+      .internship-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        margin: 0.35rem 0 0.55rem;
+        padding: 0.3rem 0.8rem;
+        border-radius: 999px;
+        font-size: 0.8rem;
+        font-weight: 800;
+        letter-spacing: 0.025em;
+        line-height: 1.35;
+        box-shadow: 0 3px 8px rgba(0, 0, 0, 0.28);
+        background: #ffffff;
+
+        &__logo {
+          display: block;
+          width: auto;
+          height: 1rem;
+          object-fit: contain;
+
+          &--amazon {
+            height: 1.05rem;
+          }
+
+          &--adobe {
+            height: 1.15rem;
+          }
+        }
+
+        span {
+          padding-left: 0.55rem;
+          border-left: 1px solid rgba(17, 17, 17, 0.22);
+        }
+
+        &--amazon {
+          color: #111111;
+          border: 2px solid #ff9900;
+          box-shadow: 0 3px 10px rgba(255, 153, 0, 0.3);
+        }
+
+        &--adobe {
+          color: #111111;
+          border: 2px solid #eb1000;
+          box-shadow: 0 3px 10px rgba(235, 16, 0, 0.28);
+        }
+      }
       .links {
         a.btn {
           color: var(--global-text-color);

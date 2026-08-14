@@ -139,9 +139,21 @@
         <div class="periodical">
           {{ periodical | strip }}
         </div>
+        {%- if entry.internship %}
+        <div class="internship-badge internship-badge--{{ entry.internship | downcase }}">
+          <img
+            class="internship-badge__logo internship-badge__logo--{{ entry.internship | downcase }}"
+            src="{{ entry.internship_logo | prepend: '/assets/img/company-logos/' | relative_url }}"
+            alt="{{ entry.internship }} logo"
+          >
+          <span>Internship Work</span>
+        </div>
+        {%- endif %}
+        {%- if entry.note %}
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
+        {%- endif %}
 
           <!-- Links/Buttons -->
           <div class="links">
