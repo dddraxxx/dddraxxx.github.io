@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: dddraxxx # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: QihuaD98108 # your Twitter handle
+twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: qdong30 # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -97,7 +97,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You may reach me by email, twitter or github for academic discussions. Feel free to talk.
+  You may reach me by email or GitHub for academic discussions. Feel free to talk.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
