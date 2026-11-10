@@ -16,6 +16,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am currently a PhD at Northeastern University, Boston. I graduated from City University of Hong Kong with a major in computer science and a minor in math.
 
-My research interests focus on **reasoning** and **visual understanding** in **(M)LLMs**, including reinforcement learning and tool-use agents. My prior experience spans multimodal LLMs, image segmentation, and medical image analysis.
+My research interests focus on **reasoning**, **post-training**, and **self-improving agents** in **(M)LLMs**, including reinforcement learning, tool use, and agent harnesses. My prior experience spans multimodal LLMs, image segmentation, and medical image analysis.
 
 <small><i>ps: You may reach me by email or GitHub. Welcome to collaborate!</i></small>
